@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>View/user_account.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>141</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PressRelease/View/ViewOfRelease.php</file>
+            <file>file:/C:/xampp/htdocs/PressRelease/Model/Press_release.php</file>
+            <file>file:/C:/xampp/htdocs/PressRelease/View/Login.php</file>
+            <file>file:/C:/xampp/htdocs/PressRelease/Model/Press_release_Repository.php</file>
+            <file>file:/C:/xampp/htdocs/PressRelease/View/EditRelease.php</file>
+            <file>file:/C:/xampp/htdocs/PressRelease/Model/User.php</file>
+            <file>file:/C:/xampp/htdocs/PressRelease/View/index.php</file>
+        </group>
+    </open-files>
+</project-private>
